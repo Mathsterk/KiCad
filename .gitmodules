@@ -9,3 +9,6 @@
 [submodule "Libraries/digikey-kicad-library"]
 	path = Libraries/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
+[submodule "Libraries/myelin-kicad.pretty"]
+	path = Libraries/myelin-kicad.pretty
+	url = https://github.com/myelin/myelin-kicad.pretty

@@ -6,3 +6,6 @@
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
 	ignore = dirty
 	
+[submodule "Libraries/digikey-kicad-library"]
+	path = Libraries/digikey-kicad-library
+	url = https://github.com/digikey/digikey-kicad-library

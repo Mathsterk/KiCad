@@ -4,3 +4,5 @@
 [submodule "Libraries/Seeed-OPL-Library"]
 	path = Libraries/Seeed-OPL-Library
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
+	ignore = dirty
+	

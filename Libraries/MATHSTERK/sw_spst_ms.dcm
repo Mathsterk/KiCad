@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_SPST_ms
+D Single Pole Single Throw (SPST) switch
+K switch lever
+$ENDCMP
+#
+#End Doc Library

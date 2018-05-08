@@ -1,3 +1,6 @@
 [submodule "Libraries\\myelin-kicad-libraries"]
 	path = Libraries\\myelin-kicad-libraries
 	url = https://github.com/myelin/myelin-kicad-libraries
+[submodule "Libraries/Seeed-OPL-Library"]
+	path = Libraries/Seeed-OPL-Library
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library

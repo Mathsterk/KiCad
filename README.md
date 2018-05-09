@@ -10,16 +10,16 @@ remember something else as well
 remember to use relative paths
 
 ## projects
-this is where you put projects
+  this is where you put projects
 
 
 ##Library
-this is where libraries go, both component and footprints
+  this is where libraries go, both component and footprints
 
 
 ## tools
-where random scripts and stuff lives
+  where random scripts and stuff lives
 
 
 ##board assemblies
-this is where 3d-ifyed stuff can live, preferrably within ./<project name>/<3d-files>
+  this is where 3d-ifyed stuff can live, preferrably within ./<project name>/<3d-files>

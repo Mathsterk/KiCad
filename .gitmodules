@@ -12,3 +12,6 @@
 [submodule "Libraries/myelin-kicad-libraries"]
 	path = Libraries/myelin-kicad-libraries
 	url = https://github.com/myelin/myelin-kicad-libraries
+[submodule "Libraries/Adafruit-Eagle-Library.kicad"]
+	path = Libraries/Adafruit-Eagle-Library.kicad
+	url = https://github.com/ryanfobel/Adafruit-Eagle-Library.kicad

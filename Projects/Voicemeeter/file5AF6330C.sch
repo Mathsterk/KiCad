@@ -89,6 +89,7 @@ LIBS:Worldsemi
 LIBS:Xicor
 LIBS:zetex
 LIBS:Zilog
+LIBS:PEC11R-4215F-S0024
 LIBS:dk_Addressable-Specialty
 LIBS:dk_Alarms-Buzzers-and-Sirens
 LIBS:dk_Automotive-Relays

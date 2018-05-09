@@ -46,12 +46,10 @@ LIBS:elec-unifil
 LIBS:ESD_Protection
 LIBS:ftdi
 LIBS:gennum
-LIBS:graphic
 LIBS:hc11
 LIBS:ir
 LIBS:Lattice
 LIBS:leds
-LIBS:logo
 LIBS:maxim
 LIBS:mechanical
 LIBS:microchip_dspic33dsc
@@ -95,7 +93,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 6
+Sheet 3 7
 Title ""
 Date ""
 Rev ""
@@ -458,10 +456,10 @@ $EndComp
 Wire Wire Line
 	5300 7150 4400 7150
 $Comp
-L GND #PWR021
+L GND #PWR21
 U 1 1 5AEC0528
 P 5850 7200
-F 0 "#PWR021" H 5850 6950 50  0001 C CNN
+F 0 "#PWR21" H 5850 6950 50  0001 C CNN
 F 1 "GND" H 5850 7050 50  0000 C CNN
 F 2 "" H 5850 7200 50  0001 C CNN
 F 3 "" H 5850 7200 50  0001 C CNN

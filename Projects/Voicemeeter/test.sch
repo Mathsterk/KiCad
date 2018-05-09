@@ -46,12 +46,10 @@ LIBS:elec-unifil
 LIBS:ESD_Protection
 LIBS:ftdi
 LIBS:gennum
-LIBS:graphic
 LIBS:hc11
 LIBS:ir
 LIBS:Lattice
 LIBS:leds
-LIBS:logo
 LIBS:maxim
 LIBS:mechanical
 LIBS:microchip_dspic33dsc
@@ -95,7 +93,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 1 7
 Title ""
 Date "2018-04-28"
 Rev ""
@@ -144,9 +142,13 @@ Wire Bus Line
 Wire Bus Line
 	3100 4050 3100 3350
 Wire Bus Line
-	3000 3350 4000 3350
+	3000 3350 3100 3350
 Wire Bus Line
-	3000 3250 4000 3250
+	3100 3350 4000 3350
+Wire Bus Line
+	3000 3250 3200 3250
+Wire Bus Line
+	3200 3250 4000 3250
 Wire Bus Line
 	3200 3250 3200 3950
 Wire Bus Line
@@ -156,7 +158,9 @@ Wire Bus Line
 Wire Bus Line
 	3300 3850 3300 3150
 Wire Bus Line
-	3000 3150 4000 3150
+	3000 3150 3300 3150
+Wire Bus Line
+	3300 3150 4000 3150
 Wire Bus Line
 	4000 3050 3000 3050
 Wire Bus Line
@@ -169,7 +173,8 @@ U 5AE700A5
 F0 "STM" 60
 F1 "file5AE700A4.sch" 60
 F2 "M[1..27]" I L 6250 2950 60 
-F3 "SK[1..2]" O R 7750 2950 60 
+F3 "SK[1..2]" O R 7750 2850 60 
+F4 "OLED[1..7]" B R 7750 3350 60 
 $EndSheet
 Connection ~ 3300 3150
 Connection ~ 3200 3250
@@ -177,12 +182,29 @@ Connection ~ 3100 3350
 Wire Bus Line
 	5450 2950 6250 2950
 $Sheet
-S 8200 2750 1050 700 
+S 8150 2150 1050 450 
 U 5AE7739C
-F0 "LED Driver" 60
+F0 "LEDs" 60
 F1 "file5AE7739B.sch" 60
-F2 "SK[1..2]" I L 8200 2950 60 
+F2 "SK[1..2]" I L 8150 2350 60 
 $EndSheet
 Wire Bus Line
-	7750 2950 8200 2950
+	7750 2850 7900 2850
+Wire Bus Line
+	7900 2850 7900 2350
+Wire Bus Line
+	7900 2350 8150 2350
+$Sheet
+S 8150 3600 1050 500 
+U 5AF36D44
+F0 "OLED" 60
+F1 "file5AF36D43.sch" 60
+F2 "OLED[1..7]" B L 8150 3850 60 
+$EndSheet
+Wire Bus Line
+	8150 3850 7900 3850
+Wire Bus Line
+	7900 3850 7900 3350
+Wire Bus Line
+	7900 3350 7750 3350
 $EndSCHEMATC

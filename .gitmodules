@@ -9,3 +9,6 @@
 [submodule "Libraries/myelin-kicad.pretty"]
 	path = Libraries/myelin-kicad.pretty
 	url = https://github.com/myelin/myelin-kicad.pretty
+[submodule "Libraries/myelin-kicad-libraries"]
+	path = Libraries/myelin-kicad-libraries
+	url = https://github.com/myelin/myelin-kicad-libraries

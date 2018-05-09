@@ -9572,7 +9572,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FB5)
-    (at 384.925002 -20.848001)
+    (at 52.692 119.712)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AEF2297)
@@ -9619,7 +9619,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FBF)
-    (at 408.175002 -3.148001)
+    (at 47.104 229.948)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF52574)
@@ -9666,7 +9666,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FC9)
-    (at 439.175002 5.701999)
+    (at 68.44 229.44)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF52586)
@@ -9713,7 +9713,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FD3)
-    (at 431.425002 5.701999)
+    (at 87.744 230.456)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF52598)
@@ -9760,7 +9760,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FDD)
-    (at 439.175002 -3.148001)
+    (at 108.064 230.456)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF525AA)
@@ -9807,7 +9807,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FE7)
-    (at 423.675002 5.701999)
+    (at 129.4 228.424)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF525BC)
@@ -9854,7 +9854,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FF1)
-    (at 431.425002 -3.148001)
+    (at 150.736 229.948)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF525CE)
@@ -9901,7 +9901,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF36FFB)
-    (at 439.175002 -11.998001)
+    (at 170.04 228.932)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF525E0)
@@ -9948,7 +9948,7 @@
   )
 
   (module LEDs:LED_RGB_5050-6 (layer F.Cu) (tedit 59155824) (tstamp 5AF37005)
-    (at 439.175002 -20.848001)
+    (at 192.392 228.932)
     (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
     (tags "RGB LED 5050-6")
     (path /5AE7739C/5AF525F2)

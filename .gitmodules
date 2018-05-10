@@ -2,16 +2,19 @@
 	path = Libraries/Seeed-OPL-Library
 	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
 	ignore = dirty
-	
+
 [submodule "Libraries/digikey-kicad-library"]
 	path = Libraries/digikey-kicad-library
 	url = https://github.com/digikey/digikey-kicad-library
+
 [submodule "Libraries/myelin-kicad.pretty"]
 	path = Libraries/myelin-kicad.pretty
 	url = https://github.com/myelin/myelin-kicad.pretty
+
 [submodule "Libraries/myelin-kicad-libraries"]
 	path = Libraries/myelin-kicad-libraries
 	url = https://github.com/myelin/myelin-kicad-libraries
+	
 [submodule "Libraries/Adafruit-Eagle-Library.kicad"]
 	path = Libraries/Adafruit-Eagle-Library.kicad
 	url = https://github.com/ryanfobel/Adafruit-Eagle-Library.kicad

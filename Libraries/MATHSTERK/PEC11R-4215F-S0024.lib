@@ -1,7 +1,5 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
-#(c) SnapEDA 2016 (snapeda.com)
-#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
 #
 # PEC11R-4215F-S0024
 #
@@ -13,22 +11,22 @@ F3 "Good" 0 0 50 H I L BNN
 F4 "1.11 USD" 0 0 50 H I L BNN
 F5 "Bourns" 0 0 50 H I L BNN
 F6 "None" 0 0 50 H I L BNN
-F7 "PEC11R-4215F-S0024" 0 0 50 H I L BNN
+F7 "PEC11R-4215F-S0024" 0 0 50 H I L BNN "part_num"
 F8 "Incremental Encoder, 12 Mm, Contact Rating 10 Ma - 5 Vdc" 0 0 50 H I L BNN
 DRAW
 C -200 0 50 0 0 10 N
 C 200 0 50 0 0 10 N
-P 2 0 0 10 -200 50 0 250 N
-P 2 0 0 10 -250 300 -250 -350 N
 P 2 0 0 10 -250 -350 250 -350 N
+P 2 0 0 10 -250 300 -250 -350 N
+P 2 0 0 10 -200 50 0 250 N
 P 2 0 0 10 250 -350 250 300 N
 P 2 0 0 10 250 300 -250 300 N
-X 1 1 -450 0 200 R 40 40 0 0 P 
-X 2 2 450 0 200 L 40 40 0 0 P 
-X A A -450 -150 200 R 40 40 0 0 P 
-X B B -450 -250 200 R 40 40 0 0 P 
-X COM C 450 -200 200 L 40 40 0 0 P 
+X 1 1 -450 0 200 R 40 40 0 0 P
+X 2 2 450 0 200 L 40 40 0 0 P
+X A A -450 -150 200 R 40 40 0 0 P
+X B B -450 -250 200 R 40 40 0 0 P
+X COM C 450 -200 200 L 40 40 0 0 P
 ENDDRAW
 ENDDEF
 #
-# End Library
+#End Library

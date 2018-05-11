@@ -11,6 +11,11 @@ K NPN DC Optocoupler
 F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
 $ENDCMP
 #
+$CMP POT
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
 $CMP R
 D Resistor
 K r res resistor

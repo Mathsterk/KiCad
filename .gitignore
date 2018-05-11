@@ -9,6 +9,9 @@
 _autosave-*
 *.tmp
 
+# Lock files
+*.~lock.*
+
 # Netlist files (exported from Eeschema)
 *.net
 

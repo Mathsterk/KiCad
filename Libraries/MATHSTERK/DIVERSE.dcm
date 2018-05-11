@@ -5,6 +5,17 @@ D Unpolarized capacitor
 K cap capacitor
 $ENDCMP
 #
+$CMP PC817
+D DC Optocoupler, Vce 35V, CTR 50-300%, DIP4
+K NPN DC Optocoupler
+F http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
 $CMP SK9822
 D SK9822
 K led rgb sk

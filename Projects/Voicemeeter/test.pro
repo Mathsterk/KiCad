@@ -1,4 +1,4 @@
-update=11.05.2018 20:03:13
+update=14.05.2018 10:27:22
 version=1
 last_client=kicad
 [pcbnew]
@@ -33,8 +33,6 @@ NetFmtName=Pcbnew
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../Libraries
@@ -279,3 +277,5 @@ LibName237=Worldsemi
 LibName238=Xicor
 LibName239=zetex
 LibName240=Zilog
+[general]
+version=1

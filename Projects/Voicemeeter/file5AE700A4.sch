@@ -244,7 +244,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 6
+Sheet 5 7
 Title ""
 Date ""
 Rev ""
@@ -586,17 +586,6 @@ F 4 "57GB5FX" H 10050 2350 60  0001 C CNN "part_num"
 	1    10050 2350
 	-1   0    0    1   
 $EndComp
-$Comp
-L Screw_Terminal_01x02 J503
-U 1 1 5AF33E17
-P 3150 5050
-F 0 "J503" V 3150 5150 50  0000 C CNN
-F 1 "Screw_Terminal_01x02" V 3350 5050 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_Altech_AK300-2_P5.00mm" H 3150 5050 50  0001 C CNN
-F 3 "" H 3150 5050 50  0001 C CNN
-	1    3150 5050
-	0    -1   -1   0   
-$EndComp
 Entry Wire Line
 	2550 850  2650 750 
 Entry Wire Line
@@ -822,12 +811,6 @@ Connection ~ 3600 5200
 Wire Wire Line
 	2600 5400 3600 5400
 Wire Wire Line
-	3150 5400 3150 5250
-Connection ~ 3150 5400
-Wire Wire Line
-	3250 5250 3250 5500
-Connection ~ 3250 5500
-Wire Wire Line
 	2400 5600 3600 5600
 Wire Wire Line
 	3600 4900 4600 4900
@@ -835,8 +818,6 @@ Wire Wire Line
 	2500 5050 2500 4100
 Wire Wire Line
 	3600 4750 3600 4900
-Wire Wire Line
-	2500 4100 4600 4100
 Wire Bus Line
 	3000 3800 1600 3800
 Wire Wire Line
@@ -1311,4 +1292,19 @@ F 4 "C0603C106M8PACTU" V 8780 4400 60  0001 C CNN "part_num"
 	1    8600 4300
 	-1   0    0    1   
 $EndComp
+$Comp
+L GS2 J503
+U 1 1 5AFB0685
+P 2800 4100
+F 0 "J503" H 2900 4250 50  0000 C CNN
+F 1 "GS2" H 2900 3951 50  0000 C CNN
+F 2 "MATHSTERK:SB2" V 2874 4100 50  0001 C CNN
+F 3 "" H 2800 4100 50  0001 C CNN
+	1    2800 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2500 4100 2600 4100
+Wire Wire Line
+	3000 4100 4600 4100
 $EndSCHEMATC

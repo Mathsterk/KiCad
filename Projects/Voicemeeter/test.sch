@@ -244,7 +244,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 7
+Sheet 1 6
 Title ""
 Date "2018-04-28"
 Rev ""
@@ -334,10 +334,4 @@ F2 "SK[1..2]" I L 8100 3100 60
 $EndSheet
 Wire Bus Line
 	7750 3100 8100 3100
-$Sheet
-S 4000 1550 1450 750 
-U 5AFAE980
-F0 "PSU" 60
-F1 "file5AFAE97F.sch" 60
-$EndSheet
 $EndSCHEMATC

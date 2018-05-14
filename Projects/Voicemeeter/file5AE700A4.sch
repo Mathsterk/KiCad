@@ -244,7 +244,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 5 7
+Sheet 5 6
 Title ""
 Date ""
 Rev ""
@@ -1294,4 +1294,72 @@ Wire Wire Line
 NoConn ~ 7000 2500
 Wire Wire Line
 	7050 2100 7000 2100
+$Comp
+L IRM-45 PSU?
+U 1 1 5AF9DFFD
+P 3300 6850
+F 0 "PSU?" H 3200 6800 60  0000 C CNN
+F 1 "IRM-45" H 3200 6700 60  0000 C CNN
+F 2 "MATHSTERK:IRM-45" H 3300 6850 60  0001 C CNN
+F 3 "" H 3300 6850 60  0001 C CNN
+	1    3300 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L +5V #PWR?
+U 1 1 5AF9E004
+P 3900 6950
+F 0 "#PWR?" H 3900 6800 50  0001 C CNN
+F 1 "+5V" H 3900 7090 50  0000 C CNN
+F 2 "" H 3900 6950 50  0001 C CNN
+F 3 "" H 3900 6950 50  0001 C CNN
+	1    3900 6950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3900 6950 3900 7000
+Wire Wire Line
+	3900 7000 3850 7000
+$Comp
+L GND #PWR?
+U 1 1 5AF9E00C
+P 3900 7150
+F 0 "#PWR?" H 3900 6900 50  0001 C CNN
+F 1 "GND" H 3900 7000 50  0000 C CNN
+F 2 "" H 3900 7150 50  0001 C CNN
+F 3 "" H 3900 7150 50  0001 C CNN
+	1    3900 7150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 7100 3900 7100
+Wire Wire Line
+	3900 7100 3900 7150
+$Comp
+L Screw_Terminal_01x06 J?
+U 1 1 5AF9E014
+P 2200 6950
+F 0 "J?" H 2200 7250 50  0000 C CNN
+F 1 "Screw_Terminal_01x06" H 2200 6550 50  0000 C CNN
+F 2 "Connectors_Terminal_Blocks:TerminalBlock_bornier-6_P5.08mm" H 2200 6950 50  0001 C CNN
+F 3 "" H 2200 6950 50  0001 C CNN
+	1    2200 6950
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2400 6650 2750 6650
+Wire Wire Line
+	2750 6750 2400 6750
+Wire Wire Line
+	2400 7150 2600 7150
+Wire Wire Line
+	2600 7150 2600 6850
+Wire Wire Line
+	2600 6850 2400 6850
+Wire Wire Line
+	2400 6950 2500 6950
+Wire Wire Line
+	2500 6950 2500 7050
+Wire Wire Line
+	2500 7050 2400 7050
 $EndSCHEMATC

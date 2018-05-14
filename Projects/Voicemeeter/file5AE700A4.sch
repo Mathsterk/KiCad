@@ -259,17 +259,6 @@ NoConn ~ 7000 5500
 NoConn ~ 7000 5300
 NoConn ~ 7000 5100
 $Comp
-L SW_Push RESET501
-U 1 1 5AE70367
-P 7450 2300
-F 0 "RESET501" V 7650 2350 50  0000 L CNN
-F 1 "SW_Push" H 7450 2240 50  0000 C CNN
-F 2 "Buttons_Switches_THT:SW_PUSH-12mm" H 7450 2500 50  0001 C CNN
-F 3 "" H 7450 2500 50  0001 C CNN
-	1    7450 2300
-	0    1    1    0   
-$EndComp
-$Comp
 L +3V3 #PWR042
 U 1 1 5AE71D5E
 P 7050 2300
@@ -699,10 +688,6 @@ F 3 "" H 10000 1000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7000 2100 7450 2100
-Wire Wire Line
-	7000 2500 7450 2500
-Wire Wire Line
 	7000 2700 7700 2700
 Wire Wire Line
 	7000 2900 7700 2900
@@ -757,7 +742,6 @@ Wire Wire Line
 	7000 1900 7050 1900
 Wire Wire Line
 	7050 1900 7050 2100
-Connection ~ 7050 2100
 Wire Wire Line
 	8000 3700 7350 3700
 Wire Wire Line
@@ -1026,7 +1010,7 @@ F 2 "Housings_DIP:DIP-4_W7.62mm" H 8700 4550 50  0001 L CIN
 F 3 "" H 8700 4950 50  0001 L CNN
 F 4 "PC817X1NSZ1B" H 8800 5050 60  0001 C CNN "part_num"
 	1    8900 4750
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L R R504
@@ -1307,4 +1291,7 @@ Wire Wire Line
 	2500 4100 2600 4100
 Wire Wire Line
 	3000 4100 4600 4100
+NoConn ~ 7000 2500
+Wire Wire Line
+	7050 2100 7000 2100
 $EndSCHEMATC

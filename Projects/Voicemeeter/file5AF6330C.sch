@@ -1154,9 +1154,9 @@ Text Label 7300 1500 0    60   ~ 0
 HD15
 Text Label 7300 1400 0    60   ~ 0
 HD16
-Text Label 7300 1600 0    60   ~ 0
-HD17
 Text Label 7300 1300 0    60   ~ 0
+HD17
+Text Label 7300 1600 0    60   ~ 0
 HD18
 Text Label 7300 3500 0    60   ~ 0
 HD21

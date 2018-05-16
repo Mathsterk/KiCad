@@ -1114,7 +1114,7 @@ Text Label 4400 1300 0    60   ~ 0
 HA31
 Text Label 4400 1600 0    60   ~ 0
 HA32
-Text Label 4100 4800 0    60   ~ 0
+Text Label 4400 4800 0    60   ~ 0
 HA33
 Text Label 4400 3500 0    60   ~ 0
 OA1
@@ -1130,15 +1130,15 @@ Text Label 4400 3700 0    60   ~ 0
 DA11
 Text Label 4400 5000 0    60   ~ 0
 DA12
-Text Label 4100 4900 0    60   ~ 0
+Text Label 4400 4900 0    60   ~ 0
 DA13
-Text Label 4100 4700 0    60   ~ 0
+Text Label 4400 4700 0    60   ~ 0
 DA14
 Text Label 4400 3600 0    60   ~ 0
 DA21
-Text Label 4100 5200 0    60   ~ 0
-DA22
 Text Label 4400 5100 0    60   ~ 0
+DA22
+Text Label 4100 5200 0    60   ~ 0
 DA23
 Text Label 4400 5300 0    60   ~ 0
 DA24
@@ -1186,9 +1186,9 @@ Text Label 7300 4900 0    60   ~ 0
 HD35
 Text Label 7300 4800 0    60   ~ 0
 HD36
-Text Label 7300 5000 0    60   ~ 0
+Text Label 7600 4700 0    60   ~ 0
 HD37
-Text Label 7300 4700 0    60   ~ 0
+Text Label 7600 5000 0    60   ~ 0
 HD38
 Text Label 7300 6900 0    60   ~ 0
 DD11
@@ -1202,9 +1202,9 @@ Text Label 7300 6600 0    60   ~ 0
 DD15
 Text Label 7300 6500 0    60   ~ 0
 DD16
-Text Label 7300 6700 0    60   ~ 0
+Text Label 7650 6400 0    60   ~ 0
 DD17
-Text Label 7300 6400 0    60   ~ 0
+Text Label 7550 6700 0    60   ~ 0
 DD18
 Text Label 7300 8600 0    60   ~ 0
 DD21
@@ -1218,9 +1218,9 @@ Text Label 7300 8300 0    60   ~ 0
 DD25
 Text Label 7300 8200 0    60   ~ 0
 DD26
-Text Label 7300 8400 0    60   ~ 0
-DD27
 Text Label 7300 8100 0    60   ~ 0
+DD27
+Text Label 7300 8400 0    60   ~ 0
 DD28
 Text Label 7300 10500 0    60   ~ 0
 OD11
@@ -1246,11 +1246,11 @@ Text Label 7300 11600 0    60   ~ 0
 OD42
 Text Label 7300 11500 0    60   ~ 0
 OD43
-Text Label 7300 12100 0    60   ~ 0
+Text Label 7650 12000 0    60   ~ 0
 OD51
-Text Label 7300 12000 0    60   ~ 0
+Text Label 7600 12200 0    60   ~ 0
 OD52
-Text Label 7300 12200 0    60   ~ 0
+Text Label 7600 12100 0    60   ~ 0
 OD53
 Wire Bus Line
 	4750 2900 4750 3400

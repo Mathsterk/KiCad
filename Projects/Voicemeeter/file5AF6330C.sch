@@ -1100,9 +1100,9 @@ Text Label 9150 10950 2    60   ~ 0
 M27
 Text Label 4400 1500 0    60   ~ 0
 HA11
-Text Label 4400 1900 0    60   ~ 0
+Text Label 4100 1700 0    60   ~ 0
 HA12
-Text Label 4400 1700 0    60   ~ 0
+Text Label 4100 1900 0    60   ~ 0
 HA13
 Text Label 4400 2000 0    60   ~ 0
 HA21
@@ -1114,7 +1114,7 @@ Text Label 4400 1300 0    60   ~ 0
 HA31
 Text Label 4400 1600 0    60   ~ 0
 HA32
-Text Label 4400 5200 0    60   ~ 0
+Text Label 4100 4800 0    60   ~ 0
 HA33
 Text Label 4400 3500 0    60   ~ 0
 OA1
@@ -1130,13 +1130,13 @@ Text Label 4400 3700 0    60   ~ 0
 DA11
 Text Label 4400 5000 0    60   ~ 0
 DA12
-Text Label 4400 4700 0    60   ~ 0
+Text Label 4100 4900 0    60   ~ 0
 DA13
-Text Label 4400 4800 0    60   ~ 0
+Text Label 4100 4700 0    60   ~ 0
 DA14
 Text Label 4400 3600 0    60   ~ 0
 DA21
-Text Label 4400 4900 0    60   ~ 0
+Text Label 4100 5200 0    60   ~ 0
 DA22
 Text Label 4400 5100 0    60   ~ 0
 DA23
@@ -1170,9 +1170,9 @@ Text Label 7300 3200 0    60   ~ 0
 HD25
 Text Label 7300 3100 0    60   ~ 0
 HD26
-Text Label 7300 3300 0    60   ~ 0
+Text Label 7550 3000 0    60   ~ 0
 HD27
-Text Label 7300 3000 0    60   ~ 0
+Text Label 7550 3300 0    60   ~ 0
 HD28
 Text Label 7300 5200 0    60   ~ 0
 HD31

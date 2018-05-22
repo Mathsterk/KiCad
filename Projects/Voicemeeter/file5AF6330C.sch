@@ -985,7 +985,7 @@ Entry Wire Line
 Entry Wire Line
 	7200 12000 7300 12100
 Wire Bus Line
-	4750 3500 4750 5300
+	4750 3500 4750 5200
 Wire Bus Line
 	4750 2900 4850 2900
 Wire Bus Line
@@ -1130,17 +1130,17 @@ Text Label 4400 3700 0    60   ~ 0
 DA11
 Text Label 4400 5000 0    60   ~ 0
 DA12
-Text Label 4400 4900 0    60   ~ 0
+Text Label 4400 5200 0    60   ~ 0
 DA13
 Text Label 4400 4700 0    60   ~ 0
 DA14
 Text Label 4400 3600 0    60   ~ 0
 DA21
-Text Label 4400 5100 0    60   ~ 0
+Text Label 4150 4900 0    60   ~ 0
 DA22
-Text Label 4100 5200 0    60   ~ 0
+Text Label 4150 5300 0    60   ~ 0
 DA23
-Text Label 4400 5300 0    60   ~ 0
+Text Label 4150 5100 0    60   ~ 0
 DA24
 Text Label 7300 1800 0    60   ~ 0
 HD11

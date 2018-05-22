@@ -1334,7 +1334,7 @@ U 1 1 5AFA544F
 P 2200 6750
 F 0 "J1" H 2200 6850 50  0000 C CNN
 F 1 "Screw_Terminal_01x02" H 2200 6550 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_bornier-2_P5.08mm" H 2200 6750 50  0001 C CNN
+F 2 "Connectors_Molex:Molex_Sabre_43160-0X02_02x7.49mm_Vertical" H 2200 6750 50  0001 C CNN
 F 3 "" H 2200 6750 50  0001 C CNN
 	1    2200 6750
 	-1   0    0    1   

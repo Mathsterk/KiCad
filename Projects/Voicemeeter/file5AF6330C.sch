@@ -1116,9 +1116,9 @@ Text Label 4400 1600 0    60   ~ 0
 HA32
 Text Label 4400 4800 0    60   ~ 0
 HA33
-Text Label 4400 3500 0    60   ~ 0
+Text Label 4400 3600 0    60   ~ 0
 OA1
-Text Label 4400 3300 0    60   ~ 0
+Text Label 4400 3500 0    60   ~ 0
 OA2
 Text Label 4400 3000 0    60   ~ 0
 OA3
@@ -1134,7 +1134,7 @@ Text Label 4400 5200 0    60   ~ 0
 DA13
 Text Label 4400 4700 0    60   ~ 0
 DA14
-Text Label 4400 3600 0    60   ~ 0
+Text Label 4400 3300 0    60   ~ 0
 DA21
 Text Label 4150 4900 0    60   ~ 0
 DA22

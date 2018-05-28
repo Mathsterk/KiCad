@@ -2,7 +2,7 @@
   (descr http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf)
   (tags "RGB LED 5050-6")
   (attr smd)
-  (fp_text reference LED1 (at 0 -3.5 180) (layer F.SilkS)
+  (fp_text reference LED11 (at 0 -3.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value SK9822 (at 0 3.3) (layer F.Fab)
@@ -30,9 +30,9 @@
   (pad 4 smd rect (at 2.4 1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.4 0 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 2.4 -1.7 90) (size 1.1 2) (layers F.Cu F.Paste F.Mask))
-  (model LEDs.3dshapes/LED_WS2812-PLCC6.wrl
+  (model MATHSTERK.3dshapes/smd_Led_5050_v3_cp.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937007874015748 0.3937007874015748 0.3937007874015748))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )

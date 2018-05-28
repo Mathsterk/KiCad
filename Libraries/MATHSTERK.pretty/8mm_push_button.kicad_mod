@@ -1,8 +1,8 @@
 (module 8mm_push_button (layer F.Cu) (tedit 5AE65C69)
-  (fp_text reference REF** (at 0.5 5) (layer F.SilkS)
+  (fp_text reference SW208 (at 0.5 5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value 8mmPB (at 0 -5) (layer F.Fab) hide
+  (fp_text value SW_SPDT_6pin (at 0 -5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -1 0) (end -1 1.5) (layer F.SilkS) (width 0.15))
@@ -25,9 +25,9 @@
   (pad 2 thru_hole circle (at -2.5 -3) (size 1.8 1.8) (drill 0.85) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 -3) (size 1.8 1.8) (drill 0.85) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 2.5 -3) (size 1.8 1.8) (drill 0.85) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/Mathsterk/Documents/kicad/KiCad/Libraries/MATHSTERK.3dshapes/MHPS2285.wrl
+  (model MATHSTERK.3dshapes/MHPS2285.wrl
     (at (xyz 0 0 0))
-    (scale (xyz 0.3937007874015748 0.3937007874015748 0.3937007874015748))
+    (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 90 180 0))
   )
 )

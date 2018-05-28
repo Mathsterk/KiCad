@@ -1,5 +1,5 @@
 (module Pot (layer F.Cu) (tedit 5AF94EC3)
-  (fp_text reference RV206 (at 0 0.5) (layer F.SilkS)
+  (fp_text reference RV201 (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value POT (at 0 -0.5) (layer F.Fab)
@@ -19,12 +19,12 @@
   (pad 3 thru_hole circle (at 2.5 7) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole rect (at -5.3 0) (size 4 4) (drill oval 1.8 2.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole rect (at 5.3 0) (size 4 4) (drill oval 1.8 2.1) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/Mathsterk/Documents/kicad/KiCad/Libraries/MATHSTERK.3dshapes/RK09D1130A1L.wrl
+  (model ../../../../../../Users/2110stma/Github/KiCad/Libraries/MATHSTERK.3dshapes/RK09D1130A1L.wrl
     (at (xyz 0 0 0.235))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 180 0 180))
   )
-  (model ../../../../../../Users/2110stma/Github/KiCad/Libraries/MATHSTERK.3dshapes/RK09D1130A1L.wrl
+  (model MATHSTERK.3dshapes/RK09D1130A1L.wrl
     (at (xyz 0 0 0.235))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 180 0 180))

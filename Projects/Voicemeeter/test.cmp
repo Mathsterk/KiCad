@@ -1,0 +1,2539 @@
+Cmp-Mod V01 Created by PcbNew   date = 28.05.2018 18:31:28
+
+BeginCmp
+TimeStamp = 5B0B2F20
+Path = /5AE700A5/5AF3E2EE
+Reference = U501;
+ValeurCmp = stm32f103-china-MS;
+IdModule  = MATHSTERK:stm32f103c8t6-module-china-MS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D821
+Path = /5AF6330D/5AF5E23A
+Reference = U401;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D869
+Path = /5AF6330D/5AF5E2FB
+Reference = U403;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE731C7
+Path = /5AE700A5/5AE7562E
+Reference = J505;
+ValeurCmp = MIDI OUT;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE731CD
+Path = /5AE700A5/5AE75593
+Reference = J506;
+ValeurCmp = MIDI IN;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE73323
+Path = /5AE700A5/5AF6AC5F
+Reference = R502;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE73329
+Path = /5AE700A5/5AF6AC66
+Reference = R503;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AE7342D
+Path = /5AE700A5/5AF641D6
+Reference = U502;
+ValeurCmp = PC817;
+IdModule  = Housings_DIP:DIP-4_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEBCBC9
+Path = /5AE700A5/5AEBCD4A
+Reference = C501;
+ValeurCmp = 220uF;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AEBCBCF
+Path = /5AE700A5/5AEBCCE9
+Reference = C502;
+ValeurCmp = 220uF;
+IdModule  = Capacitors_THT:CP_Radial_D6.3mm_P2.50mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF95FFE
+Path = /5AE700A5/5AF33D1B
+Reference = J501;
+ValeurCmp = SPARE;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x05_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96092
+Path = /5AE700A5/5AF5D82E
+Reference = OLED501;
+ValeurCmp = 1.5"OLED;
+IdModule  = MATHSTERK:OLED;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F941
+Path = /5AE5FE22/5AF5C7F1
+Reference = C301;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F947
+Path = /5AE5FE22/5AF5C85D
+Reference = C302;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F94D
+Path = /5AE5FE22/5AF5C8BA
+Reference = C303;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F953
+Path = /5AE5FE22/5AF5C8C1
+Reference = C304;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F959
+Path = /5AE5FE22/5AF5C98C
+Reference = C305;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F95F
+Path = /5AE5FE22/5AF5C993
+Reference = C306;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F965
+Path = /5AE5FE22/5AF5C99A
+Reference = C307;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F96B
+Path = /5AE5FE22/5AF5C9A1
+Reference = C308;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F971
+Path = /5AE5FE22/5AF5CBA8
+Reference = C309;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F977
+Path = /5AE5FE22/5AF5CBAF
+Reference = C310;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F97D
+Path = /5AE5FE22/5AF5CBB6
+Reference = C311;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F983
+Path = /5AE5FE22/5AF5CBBD
+Reference = C312;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F989
+Path = /5AE5FE22/5AF5CBC4
+Reference = C313;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F98F
+Path = /5AE5FE22/5AF5CBCB
+Reference = C314;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F995
+Path = /5AE5FE22/5AF5CBD2
+Reference = C315;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F99B
+Path = /5AE5FE22/5AF5CBD9
+Reference = C316;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9A1
+Path = /5AE5FE22/5AF5CFE3
+Reference = C317;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9A7
+Path = /5AE5FE22/5AF5CFEA
+Reference = C318;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9AD
+Path = /5AE5FE22/5AF5CFF1
+Reference = C319;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9B3
+Path = /5AE5FE22/5AF5CFF8
+Reference = C320;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9B9
+Path = /5AE5FE22/5AF5CFFF
+Reference = C321;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9F9BF
+Path = /5AE5FE22/5AF5D006
+Reference = C322;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_SMD:C_0603_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB05
+Path = /5AE49271/5AEAAE7F
+Reference = R201;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB0B
+Path = /5AE49271/5AEAAE85
+Reference = R202;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB11
+Path = /5AE49271/5AEAAE8B
+Reference = R203;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB17
+Path = /5AE49271/5AEAAE91
+Reference = R204;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB1D
+Path = /5AE49271/5AEAAE97
+Reference = R205;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB23
+Path = /5AE49271/5AEAAE9D
+Reference = R206;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB29
+Path = /5AE49271/5AEAAEA3
+Reference = R207;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB2F
+Path = /5AE49271/5AEAAEA9
+Reference = R208;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB35
+Path = /5AE49271/5AEAC6A7
+Reference = R209;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB3B
+Path = /5AE49271/5AEAC6AD
+Reference = R210;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB41
+Path = /5AE49271/5AEAC6B3
+Reference = R211;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB47
+Path = /5AE49271/5AEAC6B9
+Reference = R212;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB4D
+Path = /5AE49271/5AEAC6BF
+Reference = R213;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB53
+Path = /5AE49271/5AEAC6C5
+Reference = R214;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB59
+Path = /5AE49271/5AEAC6CB
+Reference = R215;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB5F
+Path = /5AE49271/5AEAC6D1
+Reference = R216;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB65
+Path = /5AE49271/5AEAC76B
+Reference = R217;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB6B
+Path = /5AE49271/5AEAC771
+Reference = R218;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB71
+Path = /5AE49271/5AEAC777
+Reference = R219;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB77
+Path = /5AE49271/5AEAC77D
+Reference = R220;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB7D
+Path = /5AE49271/5AEAC783
+Reference = R221;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB83
+Path = /5AE49271/5AEAC789
+Reference = R222;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB89
+Path = /5AE49271/5AEAC78F
+Reference = R223;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB8F
+Path = /5AE49271/5AEAC795
+Reference = R224;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB95
+Path = /5AE49271/5AEC2287
+Reference = R225;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FB9B
+Path = /5AE49271/5AEC228D
+Reference = R226;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBA1
+Path = /5AE49271/5AEC2293
+Reference = R227;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBA7
+Path = /5AE49271/5AEC2299
+Reference = R228;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBAD
+Path = /5AE49271/5AEC229F
+Reference = R229;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBB3
+Path = /5AE49271/5AEC22A5
+Reference = R230;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBB9
+Path = /5AE49271/5AEC22AB
+Reference = R231;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBBF
+Path = /5AE49271/5AEC22B1
+Reference = R232;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBC5
+Path = /5AE49271/5AEAD2DD
+Reference = R233;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBCB
+Path = /5AE49271/5AEAD2E3
+Reference = R234;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBD1
+Path = /5AE49271/5AEAD2E9
+Reference = R235;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBD7
+Path = /5AE49271/5AEAD2EF
+Reference = R236;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBDD
+Path = /5AE49271/5AEAD2F5
+Reference = R237;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBE3
+Path = /5AE49271/5AEAD2FB
+Reference = R238;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBE9
+Path = /5AE49271/5AEAD301
+Reference = R239;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBEF
+Path = /5AE49271/5AEAD307
+Reference = R240;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBF5
+Path = /5AE49271/5AED7375
+Reference = R241;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FBFB
+Path = /5AE49271/5AED8CB6
+Reference = R242;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC01
+Path = /5AE49271/5AEDB2E8
+Reference = R243;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC07
+Path = /5AE49271/5AEFBFC1
+Reference = R244;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC0D
+Path = /5AE49271/5AEFBFC7
+Reference = R245;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC13
+Path = /5AE49271/5AEFBFCD
+Reference = R246;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC19
+Path = /5AE49271/5AEFC70A
+Reference = R247;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC1F
+Path = /5AE49271/5AEFC710
+Reference = R248;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC25
+Path = /5AE49271/5AEFC716
+Reference = R249;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC2B
+Path = /5AE49271/5AF421D2
+Reference = R250;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC31
+Path = /5AE49271/5AF421D8
+Reference = R251;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC37
+Path = /5AE49271/5AF421DE
+Reference = R252;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC3D
+Path = /5AE49271/5AF42466
+Reference = R253;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC43
+Path = /5AE49271/5AF4246C
+Reference = R254;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC49
+Path = /5AE49271/5AF42472
+Reference = R255;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC4F
+Path = /5AE700A5/5AF6AC58
+Reference = R501;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC55
+Path = /5AE700A5/5AF69325
+Reference = R504;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC5B
+Path = /5AE700A5/5AF6A9C9
+Reference = R505;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC61
+Path = /5AE700A5/5AF6AA44
+Reference = R506;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC67
+Path = /5AE700A5/5AF6AABA
+Reference = R507;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC6D
+Path = /5AE700A5/5AF6AAC1
+Reference = R508;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC73
+Path = /5AE700A5/5AF6AB08
+Reference = R509;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC79
+Path = /5AE700A5/5AF6AB0F
+Reference = R510;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC7F
+Path = /5AE700A5/5AF6B265
+Reference = R511;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC85
+Path = /5AE700A5/5AF6B26C
+Reference = R512;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC8B
+Path = /5AE700A5/5AF6B273
+Reference = R513;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC91
+Path = /5AE700A5/5AF6C253
+Reference = R514;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC97
+Path = /5AE700A5/5AF6B79E
+Reference = R515;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FC9D
+Path = /5AE700A5/5AF6B7A5
+Reference = R516;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCA3
+Path = /5AE700A5/5AF6B7AC
+Reference = R517;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCA9
+Path = /5AE700A5/5AF6B906
+Reference = R518;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCAF
+Path = /5AE700A5/5AF6C4DA
+Reference = R519;
+ValeurCmp = 330R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCB5
+Path = /5AE700A5/5AF6B90D
+Reference = R520;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCBB
+Path = /5AE700A5/5AF6C3FF
+Reference = R521;
+ValeurCmp = 220R;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9FCC1
+Path = /5AE700A5/5AF6B914
+Reference = R522;
+ValeurCmp = 10K;
+IdModule  = Resistors_SMD:R_1206_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D845
+Path = /5AF6330D/5AF5E29D
+Reference = U402;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D88D
+Path = /5AF6330D/5AF5E356
+Reference = U404;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D8B1
+Path = /5AF6330D/5AF5E45E
+Reference = U405;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D8D5
+Path = /5AF6330D/5AF5E4AD
+Reference = U406;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D8F9
+Path = /5AF6330D/5AF5E5A9
+Reference = U407;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D91D
+Path = /5AF6330D/5AF5E600
+Reference = U408;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D941
+Path = /5AF6330D/5AF5E6C0
+Reference = U409;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9D965
+Path = /5AF6330D/5AF5E727
+Reference = U410;
+ValeurCmp = 74HC4051;
+IdModule  = Housings_DIP:DIP-16_W7.62mm_LongPads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9451
+Path = /5AE7739C/5AEF0FBD
+Reference = LED1;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9468
+Path = /5AE7739C/5AEF11B8
+Reference = LED2;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA947F
+Path = /5AE7739C/5AEF1202
+Reference = LED3;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9496
+Path = /5AE7739C/5AEF12DE
+Reference = LED4;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA94AD
+Path = /5AE7739C/5AEF12F2
+Reference = LED5;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA94C4
+Path = /5AE7739C/5AEF1374
+Reference = LED6;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA94DB
+Path = /5AE7739C/5AEF1388
+Reference = LED7;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA94F2
+Path = /5AE7739C/5AEF1732
+Reference = LED8;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9509
+Path = /5AE7739C/5AEF2219
+Reference = LED9;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9520
+Path = /5AE7739C/5AEF222B
+Reference = LED10;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9537
+Path = /5AE7739C/5AEF223D
+Reference = LED11;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA954E
+Path = /5AE7739C/5AEF224F
+Reference = LED12;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9565
+Path = /5AE7739C/5AEF2261
+Reference = LED13;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA957C
+Path = /5AE7739C/5AEF2273
+Reference = LED14;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9593
+Path = /5AE7739C/5AEF2285
+Reference = LED15;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA95AA
+Path = /5AE7739C/5AEF2297
+Reference = LED16;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA95C1
+Path = /5AE7739C/5AF52574
+Reference = LED17;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA95D8
+Path = /5AE7739C/5AF52586
+Reference = LED18;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA95EF
+Path = /5AE7739C/5AF52598
+Reference = LED19;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9606
+Path = /5AE7739C/5AF525AA
+Reference = LED20;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA961D
+Path = /5AE7739C/5AF525BC
+Reference = LED21;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9634
+Path = /5AE7739C/5AF525CE
+Reference = LED22;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA964B
+Path = /5AE7739C/5AF525E0
+Reference = LED23;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9662
+Path = /5AE7739C/5AF525F2
+Reference = LED24;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9679
+Path = /5AE7739C/5AF52614
+Reference = LED25;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9690
+Path = /5AE7739C/5AF52626
+Reference = LED26;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA96A7
+Path = /5AE7739C/5AF52638
+Reference = LED27;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA96BE
+Path = /5AE7739C/5AF5264A
+Reference = LED28;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA96D5
+Path = /5AE7739C/5AF5265C
+Reference = LED29;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA96EC
+Path = /5AE7739C/5AF5266E
+Reference = LED30;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9703
+Path = /5AE7739C/5AF52680
+Reference = LED31;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA971A
+Path = /5AE7739C/5AF52692
+Reference = LED32;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9731
+Path = /5AE7739C/5AF9CC72
+Reference = LED33;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9748
+Path = /5AE7739C/5AF9CC84
+Reference = LED34;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA975F
+Path = /5AE7739C/5AF9CC96
+Reference = LED35;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9776
+Path = /5AE7739C/5AF9CCA8
+Reference = LED36;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA978D
+Path = /5AE7739C/5AF9CCBA
+Reference = LED37;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA97A4
+Path = /5AE7739C/5AF9CCCC
+Reference = LED38;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA97BB
+Path = /5AE7739C/5AF9CCDE
+Reference = LED39;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA97D2
+Path = /5AE7739C/5AF9CCF0
+Reference = LED40;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA97E9
+Path = /5AE7739C/5AF9CD02
+Reference = LED41;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9800
+Path = /5AE7739C/5AF9CD14
+Reference = LED42;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9817
+Path = /5AE7739C/5AF9CD26
+Reference = LED43;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA982E
+Path = /5AE7739C/5AF9CD38
+Reference = LED44;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9845
+Path = /5AE7739C/5AF9CD4A
+Reference = LED45;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA985C
+Path = /5AE7739C/5AF9CD5C
+Reference = LED46;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9873
+Path = /5AE7739C/5AF9CD6E
+Reference = LED47;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA988A
+Path = /5AE7739C/5AF9CD80
+Reference = LED48;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA98A1
+Path = /5AE7739C/5AF9CD92
+Reference = LED49;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA98B8
+Path = /5AE7739C/5AF9CDA4
+Reference = LED50;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA98CF
+Path = /5AE7739C/5AF9CDB6
+Reference = LED51;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA98E6
+Path = /5AE7739C/5AF9CDC8
+Reference = LED52;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA98FD
+Path = /5AE7739C/5AF9CDDA
+Reference = LED53;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9914
+Path = /5AE7739C/5AF9CDEC
+Reference = LED54;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA992B
+Path = /5AE7739C/5AF9CDFE
+Reference = LED55;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9942
+Path = /5AE7739C/5AF9CE10
+Reference = LED56;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9959
+Path = /5AE7739C/5AFA06C2
+Reference = LED57;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9970
+Path = /5AE7739C/5AFA06D4
+Reference = LED58;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9987
+Path = /5AE7739C/5AFA06E6
+Reference = LED59;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA999E
+Path = /5AE7739C/5AFA06F8
+Reference = LED60;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA99B5
+Path = /5AE7739C/5AFA070A
+Reference = LED61;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA99CC
+Path = /5AE7739C/5AFA071C
+Reference = LED62;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA99E3
+Path = /5AE7739C/5AFA072E
+Reference = LED63;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA99FA
+Path = /5AE7739C/5AFA0740
+Reference = LED64;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A11
+Path = /5AE7739C/5AFA0752
+Reference = LED65;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A28
+Path = /5AE7739C/5AFA0764
+Reference = LED66;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A3F
+Path = /5AE7739C/5AFA0776
+Reference = LED67;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A56
+Path = /5AE7739C/5AFA0788
+Reference = LED68;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A6D
+Path = /5AE7739C/5AFA079A
+Reference = LED69;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A84
+Path = /5AE7739C/5AFA07AC
+Reference = LED70;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9A9B
+Path = /5AE7739C/5AFA07BE
+Reference = LED71;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9AB2
+Path = /5AE7739C/5AFA07D0
+Reference = LED72;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9AC9
+Path = /5AE7739C/5AFA07E2
+Reference = LED73;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9AE0
+Path = /5AE7739C/5AFA07F4
+Reference = LED74;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9AF7
+Path = /5AE7739C/5AFA0806
+Reference = LED75;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B0E
+Path = /5AE7739C/5AFA0818
+Reference = LED76;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B25
+Path = /5AE7739C/5AFA082A
+Reference = LED77;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B3C
+Path = /5AE7739C/5AFA083C
+Reference = LED78;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B53
+Path = /5AE7739C/5AFA084E
+Reference = LED79;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B6A
+Path = /5AE7739C/5AFA0860
+Reference = LED80;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B81
+Path = /5AE7739C/5AFA08B2
+Reference = LED81;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9B98
+Path = /5AE7739C/5AFA08C4
+Reference = LED82;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9BAF
+Path = /5AE7739C/5AFA08D6
+Reference = LED83;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9BC6
+Path = /5AE7739C/5AFA08E8
+Reference = LED84;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9BDD
+Path = /5AE7739C/5AFA08FA
+Reference = LED85;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9BF4
+Path = /5AE7739C/5AFA090C
+Reference = LED86;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C0B
+Path = /5AE7739C/5AFA091E
+Reference = LED87;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C22
+Path = /5AE7739C/5AFA0930
+Reference = LED88;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C39
+Path = /5AE7739C/5AFA0942
+Reference = LED89;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C50
+Path = /5AE7739C/5AFA0954
+Reference = LED90;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C67
+Path = /5AE7739C/5AFA0966
+Reference = LED91;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C7E
+Path = /5AE7739C/5AFA0978
+Reference = LED92;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9C95
+Path = /5AE7739C/5AFA098A
+Reference = LED93;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9CAC
+Path = /5AE7739C/5AFA099C
+Reference = LED94;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9CC3
+Path = /5AE7739C/5AFA09AE
+Reference = LED95;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9CDA
+Path = /5AE7739C/5AFA09C0
+Reference = LED96;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9CF1
+Path = /5AE7739C/5AFA09D2
+Reference = LED97;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D08
+Path = /5AE7739C/5AFA09E4
+Reference = LED98;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D1F
+Path = /5AE7739C/5AFA09F6
+Reference = LED99;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D36
+Path = /5AE7739C/5AFA0A08
+Reference = LED100;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D4D
+Path = /5AE7739C/5AFA0C32
+Reference = LED101;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D64
+Path = /5AE7739C/5AFA0C44
+Reference = LED102;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFA9D7B
+Path = /5AE7739C/5AFA0C56
+Reference = LED103;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAEBE0
+Path = /5AE700A5/5AF37F7E
+Reference = SW501;
+ValeurCmp = PEC11R-4215F-S0024;
+IdModule  = MATHSTERK:Rotary_Encoder_Switched_PEC11R;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA4FB
+Path = /5AE7739C/5AFAB947
+Reference = LED104;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA513
+Path = /5AE7739C/5AFAB09E
+Reference = LED105;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA52B
+Path = /5AE7739C/5AFAB202
+Reference = LED106;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA543
+Path = /5AE7739C/5AFAB36F
+Reference = LED107;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA55B
+Path = /5AE7739C/5AFAB4DF
+Reference = LED108;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA573
+Path = /5AE7739C/5AFAB65C
+Reference = LED109;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAA58B
+Path = /5AE7739C/5AFAB7D0
+Reference = LED110;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFABE10
+Path = /5AE7739C/5AFB0EED
+Reference = LED111;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFABE28
+Path = /5AE7739C/5AFB0EF3
+Reference = LED112;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFABE40
+Path = /5AE7739C/5AFB1AE1
+Reference = LED113;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFABE58
+Path = /5AE7739C/5AFB1AE7
+Reference = LED114;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAD29E
+Path = /5AE7739C/5AFB8B78
+Reference = LED115;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFAD2B6
+Path = /5AE7739C/5AFB8B7E
+Reference = LED116;
+ValeurCmp = SK9822;
+IdModule  = MATHSTERK:LED_RGB_5050-6;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AFEC3AB
+Path = /5AE700A5/5AFA544F
+Reference = J1;
+ValeurCmp = Screw_Terminal_01x02;
+IdModule  = Connectors_Molex:Molex_Sabre_43160-0X02_02x7.49mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B03BD0D
+Path = /5AE700A5/5AE74B06
+Reference = D501;
+ValeurCmp = D;
+IdModule  = Diodes_THT:D_DO-41_SOD81_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B041BBF
+Path = /5AE700A5/5AF36E78
+Reference = J502;
+ValeurCmp = GS2;
+IdModule  = MATHSTERK:SB2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B041BC6
+Path = /5AE700A5/5AFB0685
+Reference = J503;
+ValeurCmp = GS2;
+IdModule  = MATHSTERK:SB2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B041BCD
+Path = /5AE700A5/5AF39CAF
+Reference = J504;
+ValeurCmp = GS2;
+IdModule  = MATHSTERK:SB2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B5479
+Path = /5AE49271/5AF789D8
+Reference = RV202;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B548F
+Path = /5AE49271/5AF7AE42
+Reference = RV205;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B54A5
+Path = /5AE49271/5AF7B004
+Reference = RV208;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B54BB
+Path = /5AE49271/5AF7B1AD
+Reference = RV210;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B54D1
+Path = /5AE49271/5AF7BCBB
+Reference = RV214;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B54E7
+Path = /5AE49271/5AF7BE86
+Reference = RV218;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B54FD
+Path = /5AE49271/5AF7C04E
+Reference = RV219;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B5513
+Path = /5AE49271/5AF7C20F
+Reference = RV220;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B5529
+Path = /5AE49271/5AF7C3C7
+Reference = RV221;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B553F
+Path = /5AE49271/5AF7C582
+Reference = RV222;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:slidepot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF966E3
+Path = /5AE49271/5AECCB6E
+Reference = SW255;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF966CC
+Path = /5AE49271/5AECCB68
+Reference = SW254;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF966B5
+Path = /5AE49271/5AECCB62
+Reference = SW253;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9669E
+Path = /5AE49271/5AECCA7B
+Reference = SW252;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96687
+Path = /5AE49271/5AECCA75
+Reference = SW251;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96670
+Path = /5AE49271/5AECCA6F
+Reference = SW250;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96659
+Path = /5AE49271/5AECC997
+Reference = SW249;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96642
+Path = /5AE49271/5AECC991
+Reference = SW248;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9662B
+Path = /5AE49271/5AECC98B
+Reference = SW247;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96614
+Path = /5AE49271/5AECC0FA
+Reference = SW246;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF965FD
+Path = /5AE49271/5AECC0F4
+Reference = SW245;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF965E6
+Path = /5AE49271/5AECC0EE
+Reference = SW244;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF965CF
+Path = /5AE49271/5AECC00A
+Reference = SW243;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF965B8
+Path = /5AE49271/5AECC004
+Reference = SW242;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF965A1
+Path = /5AE49271/5AECBFFE
+Reference = SW241;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9658A
+Path = /5AE49271/5AECBE16
+Reference = SW240;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96573
+Path = /5AE49271/5AECBE10
+Reference = SW239;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9655C
+Path = /5AE49271/5AECBE0A
+Reference = SW238;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96545
+Path = /5AE49271/5AECBE04
+Reference = SW237;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9652E
+Path = /5AE49271/5AECBDFE
+Reference = SW236;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96517
+Path = /5AE49271/5AECBDF8
+Reference = SW235;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96500
+Path = /5AE49271/5AECBDF2
+Reference = SW234;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF964E9
+Path = /5AE49271/5AECBDEC
+Reference = SW233;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF964D2
+Path = /5AE49271/5AECBCF9
+Reference = SW232;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF964BB
+Path = /5AE49271/5AECBCF3
+Reference = SW231;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF964A4
+Path = /5AE49271/5AECBCED
+Reference = SW230;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9648D
+Path = /5AE49271/5AECBCE7
+Reference = SW229;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96476
+Path = /5AE49271/5AECBCE1
+Reference = SW228;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9645F
+Path = /5AE49271/5AECBCDB
+Reference = SW227;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96448
+Path = /5AE49271/5AECBCD5
+Reference = SW226;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96431
+Path = /5AE49271/5AECBCCF
+Reference = SW225;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9641A
+Path = /5AE49271/5AECB65E
+Reference = SW224;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96403
+Path = /5AE49271/5AECB658
+Reference = SW223;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF963EC
+Path = /5AE49271/5AECB652
+Reference = SW222;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF963D5
+Path = /5AE49271/5AECB64C
+Reference = SW221;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF963BE
+Path = /5AE49271/5AECB646
+Reference = SW220;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF963A7
+Path = /5AE49271/5AECB640
+Reference = SW219;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96390
+Path = /5AE49271/5AECB63A
+Reference = SW218;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96379
+Path = /5AE49271/5AECB634
+Reference = SW217;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96362
+Path = /5AE49271/5AECB521
+Reference = SW216;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9634B
+Path = /5AE49271/5AECB51B
+Reference = SW215;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96334
+Path = /5AE49271/5AECB515
+Reference = SW214;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9631D
+Path = /5AE49271/5AECB50F
+Reference = SW213;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96306
+Path = /5AE49271/5AECB509
+Reference = SW212;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF962EF
+Path = /5AE49271/5AECB503
+Reference = SW211;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF962D8
+Path = /5AE49271/5AECB4FD
+Reference = SW210;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF962C1
+Path = /5AE49271/5AECB4F7
+Reference = SW209;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF962AA
+Path = /5AE49271/5AECA63F
+Reference = SW208;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96293
+Path = /5AE49271/5AECA639
+Reference = SW207;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9627C
+Path = /5AE49271/5AECA633
+Reference = SW206;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96265
+Path = /5AE49271/5AECA62D
+Reference = SW205;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF9624E
+Path = /5AE49271/5AECA4A1
+Reference = SW204;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96237
+Path = /5AE49271/5AEC9DE4
+Reference = SW203;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96220
+Path = /5AE49271/5AEC9CF4
+Reference = SW202;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5AF96209
+Path = /5AE49271/5AEC2471
+Reference = SW201;
+ValeurCmp = SW_SPDT_6pin;
+IdModule  = MATHSTERK:8mm_push_button;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E98
+Path = /5AE49271/5AF72CF3
+Reference = RV217;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E86
+Path = /5AE49271/5AF72B35
+Reference = RV216;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E74
+Path = /5AE49271/5AF72F27
+Reference = RV215;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E62
+Path = /5AE49271/5AF727E2
+Reference = RV213;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E50
+Path = /5AE49271/5AF72990
+Reference = RV212;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E3E
+Path = /5AE49271/5AF724A8
+Reference = RV211;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E2C
+Path = /5AE49271/5AF70F89
+Reference = RV209;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E1A
+Path = /5AE49271/5AF71615
+Reference = RV207;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066E08
+Path = /5AE49271/5AF70976
+Reference = RV206;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066DF6
+Path = /5AE49271/5AF713D7
+Reference = RV204;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066DE4
+Path = /5AE49271/5AF705D6
+Reference = RV203;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B066DD2
+Path = /5AE49271/5AF6EA0A
+Reference = RV201;
+ValeurCmp = POT;
+IdModule  = MATHSTERK:Pot;
+EndCmp
+
+BeginCmp
+TimeStamp = 5B0B2EC1
+Path = /5AE700A5/5AFB63D9
+Reference = PSU1;
+ValeurCmp = IRM-45;
+IdModule  = MATHSTERK:IRM-45;
+EndCmp
+
+EndListe

@@ -1,5 +1,5 @@
 (module IRM-45 (layer F.Cu) (tedit 5AF97E2C)
-  (fp_text reference REF** (at 0 2) (layer F.SilkS)
+  (fp_text reference PSU1 (at 0 2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value IRM-45 (at 0 -2.5) (layer F.Fab)
@@ -13,7 +13,7 @@
   (pad 2 thru_hole circle (at 38 -14.25) (size 3 3) (drill 1.1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -38 14.75) (size 4.1 4.1) (drill 2.1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at -38 20.25) (size 4.1 4.1) (drill 2.1) (layers *.Cu *.Mask))
-  (model ../../../../../../Users/Mathsterk/Documents/kicad/KiCad/Libraries/MATHSTERK.3dshapes/IRM-45.wrl
+  (model MATHSTERK.3dshapes/IRM-45.wrl
     (at (xyz -0.008 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz -90 0 0))
